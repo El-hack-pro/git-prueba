@@ -2,10 +2,20 @@ body {/*fondo*/
     background-color: rgb(38, 38, 38);
 }
 
-.header { /*header*/
-    background-color: rgb(0, 0, 0);
+* { /*defino fuente*/
+    font-family: 'Roboto', sans-serif;
 }
 
-.inicio {
+.header { /*header*/
+    background-color: rgb(0, 0, 0);
+    position: sticky;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+
+.inicio { /*link a inicio*/
     text-decoration-line: none;
+    font-size: 200%;
+    color: rgb(255, 255, 255);
+    margin-right: 15%;
 }
