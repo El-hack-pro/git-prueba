@@ -1,0 +1,11 @@
+body {/*fondo*/
+    background-color: rgb(38, 38, 38);
+}
+
+.header { /*header*/
+    background-color: rgb(0, 0, 0);
+}
+
+.inicio {
+    text-decoration-line: none;
+}
